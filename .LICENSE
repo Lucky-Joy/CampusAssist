@@ -1,0 +1,63 @@
+CampusAssist Reference and Educational License
+Version 1.0
+
+Copyright (c) 2026 LJ
+
+1. Permission
+
+Permission is granted to view, study, learn from, and use this repository
+as a reference for educational, research, and personal learning purposes.
+
+You may:
+
+- Read and study the source code and documentation.
+- Use the project to understand the concepts and techniques demonstrated.
+- Experiment with individual concepts or techniques in your own projects.
+- Create your own independent implementation inspired by the ideas presented
+  in this repository.
+
+2. Restrictions
+
+You may not:
+
+- Copy or reproduce substantial portions of this repository and present them
+  as your own work.
+- Publish a substantially copied or minimally modified version of this
+  repository as an independent project.
+- Redistribute the repository or a substantial portion of its contents as
+  another project.
+- Remove or alter copyright, attribution, or licence notices.
+- Use this repository to misrepresent the original author's work as your own.
+
+3. Independent Implementations
+
+This licence does not prohibit independent implementations of concepts,
+architectures, techniques, or ideas demonstrated by the project.
+
+Users are encouraged to understand the concepts and create their own
+implementations rather than copying the project's implementation.
+
+4. Attribution
+
+When substantially discussing, referencing, or demonstrating this project
+publicly, attribution to the original repository and author is requested.
+
+5. Third-Party Components
+
+This licence applies only to original material contained in this repository.
+Third-party libraries, models, datasets, trademarks, and other external
+components remain subject to their respective licences and terms.
+
+6. No Warranty
+
+This project is provided "as is", without warranty of any kind, express or
+implied. The author is not responsible for any claim, damages, or other
+liability arising from the use of this project.
+
+7. Rights Reserved
+
+All rights not expressly granted by this licence are reserved by the
+copyright holder.
+
+If you wish to obtain permission for uses outside the terms of this licence,
+contact the repository author.
